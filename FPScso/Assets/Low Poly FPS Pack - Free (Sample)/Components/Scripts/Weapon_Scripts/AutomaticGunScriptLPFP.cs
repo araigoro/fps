@@ -266,7 +266,7 @@ public class AutomaticGunScriptLPFP : MonoBehaviour {
 		}
 			
 		//Throw grenade when pressing G key
-		if (Input.GetKeyDown (KeyCode.Alpha4) && !isInspecting) 
+		if (Input.GetKeyDown (KeyCode.G) && !isInspecting) 
 		{
 			StartCoroutine (GrenadeSpawnDelay ());
 			//Play grenade throw animation

@@ -6790,7 +6790,7 @@ GameObject:
   - component: {fileID: 54436517532814138}
   - component: {fileID: 136200420258760052}
   - component: {fileID: 82931547174934612}
-  - component: {fileID: 114985937948325432}
+  - component: {fileID: 4338269885583626461}
   m_Layer: 8
   m_Name: Assault_Rifle_01_FPSController
   m_TagString: Untagged
@@ -6939,7 +6939,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &114985937948325432
+--- !u!114 &4338269885583626461
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
